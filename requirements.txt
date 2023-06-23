@@ -1,2 +1,2 @@
 numpy
-pandas
+pandas==22.5.1
